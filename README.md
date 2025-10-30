@@ -1,4 +1,4 @@
-Repository for the code for the HF IAD module "Code & Design"
+Repository for the code for the HF IAD module "Code & Design" at the SFGZ
 
 
 Aufgabe 1 - Slider: Beziehungen steuern
