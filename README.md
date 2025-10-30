@@ -1,6 +1,5 @@
-Code & Design
-
 Repository for the code for the HF IAD module "Code & Design"
+
 
 Aufgabe 1 - Slider: Beziehungen steuern
 
