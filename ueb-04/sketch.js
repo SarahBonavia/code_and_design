@@ -1,13 +1,18 @@
 
+<<<<<<< HEAD
 let posX = 0;
 let posY = 0;
 
 let threshold = 240;
+=======
+let posX=0;
+>>>>>>> 6072085 (TAG 2)
 
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
 
+<<<<<<< HEAD
 }
 
 
@@ -64,3 +69,16 @@ function draw() {
 
 }
 
+=======
+
+}
+
+function draw() {
+  background(220);
+
+rect(posX, height/ 2)
+
+posX = posX + 1; //posX++
+
+}
+>>>>>>> 6072085 (TAG 2)
