@@ -3,9 +3,9 @@ Repository for the code for the HF IAD module "Code & Design" at the SFGZ
 
 Aufgabe 1 - Slider: Beziehungen steuern
 
-Version 1a:  https://sarahbonavia.github.io/code_and_design/aufgabe-1a
+Version 1a:  https://sarahbonavia.github.io/code_and_design/aufgabe-1/aufgabe-1a
     
-Version 1b: https://sarahbonavia.github.io/code_and_design/aufgabe-1b
+Version 1b: https://sarahbonavia.github.io/code_and_design/aufgabe-1/aufgabe-1b
 
 
 Aufgabe 2 - Animation und Interaktion
