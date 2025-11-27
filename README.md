@@ -17,4 +17,5 @@ Version 2b:  https://sarahbonavia.github.io/code_and_design/aufgabe-2/aufgabe-2b
 Version 2c:  https://sarahbonavia.github.io/code_and_design/aufgabe-2/aufgabe-2c
 
 Aufgabe 3 - “Hand Pose Detection” mit ml5
+
 https://sarahbonavia.github.io/code_and_design/ueb-10_HandPose_DiscoDots
