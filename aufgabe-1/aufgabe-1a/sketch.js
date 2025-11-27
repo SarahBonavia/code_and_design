@@ -2,7 +2,7 @@ let slider;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  angleMode(DEGREES);
+  
   slider = createSlider(0, 100, 50); //min max start
   slider.position(20, 20);
   slider.style('width', '200px'); 
