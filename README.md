@@ -10,8 +10,8 @@ Version 1b: https://sarahbonavia.github.io/code_and_design/aufgabe-1/aufgabe-1b
 
 Aufgabe 2 - Animation und Interaktion
 
-Version 2a: https://sarahbonavia.github.io/code_and_design/aufgabe-2a
+Version 2a: https://sarahbonavia.github.io/code_and_design/aufgabe-2/aufgabe-2a
 
-Version 2b:  https://sarahbonavia.github.io/code_and_design/aufgabe-2b
+Version 2b:  https://sarahbonavia.github.io/code_and_design/aufgabe-2/aufgabe-2b
 
-Version 2c:  https://sarahbonavia.github.io/code_and_design/aufgabe-2c
+Version 2c:  https://sarahbonavia.github.io/code_and_design/aufgabe-2/aufgabe-2c
